@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <!--Login-->
+    <string name="login_txtUsuario">Login</string>
+    <string name="login_txtSenha">name</string>
+    <string name="login_btnEntrar">ok</string>
+
+    <!--Validacoes-->
+
+    <string name="login_valUsuario">Usuário obrigatório</string>
+    <string name="login_valSenha">Senha obrigatório</string>
+    <string name="title_activity_adicionar_produto">AdicionarProduto</string>
+
+    <string name="btn_deletar">Deletar</string>
+    <string name="addProduto">Adicionar Produto</string>
+    <string name="nomeProduto">Nome Produto</string>
+    <string name="title_activity_list_produto">ListProduto</string>
+</resources>
